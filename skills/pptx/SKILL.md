@@ -230,3 +230,79 @@ pdftoppm -jpeg -r 150 -f N -l N output.pdf slide-fixed
 - `npm install -g pptxgenjs` - creating from scratch
 - LibreOffice (`soffice`) - PDF conversion (auto-configured for sandboxed environments via `scripts/office/soffice.py`)
 - Poppler (`pdftoppm`) - PDF to images
+
+---
+
+# QATAR GOVERNMENT BRAND GUIDELINES
+
+These rules override default styling behavior and are mandatory.
+
+## Visual Identity
+
+- Primary brand color: `#8A1538`
+- Use deep maroon as the dominant visual color
+- Use clean white or soft neutral backgrounds
+- Avoid bright startup-style palettes
+- Avoid neon colors
+- Maintain formal government aesthetics
+
+## Arabic Typography
+
+Preferred Arabic fonts:
+1. Lusail
+2. Sakkal Majalla
+3. IBM Plex Sans Arabic (fallback)
+
+Preferred English fonts:
+- Scala Sans
+- Inter
+- Source Sans Pro
+
+## Presentation Style
+
+Slides must look suitable for:
+- ministries
+- executive leadership
+- official government briefings
+- Qatar governmental institutions
+
+Design style:
+- Executive
+- Ministerial
+- Formal
+- Strategic communication aesthetic
+
+## Layout Rules
+
+- Use clean spacing and generous whitespace
+- Use strong hierarchy
+- Prefer large section headers
+- Prefer minimal text per slide
+- Use professional tables and charts
+- Use 16:9 layout
+- Keep alignment consistent
+
+## Forbidden Design Patterns
+
+- No playful startup layouts
+- No emojis
+- No excessive icons
+- No meme-style visuals
+- No low-contrast text
+- No decorative AI-style title lines
+
+## Chart & Data Style
+
+- Use executive-style charts
+- Use maroon accents in charts
+- Prioritize readability over decoration
+- Keep charts simple and clean
+
+## Arabic Formatting QA
+
+Before exporting:
+- verify RTL formatting
+- verify Arabic font consistency
+- verify alignment
+- verify no text overflow
+- verify visual balance
