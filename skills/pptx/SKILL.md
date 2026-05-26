@@ -248,10 +248,9 @@ These rules override default styling behavior and are mandatory.
 
 ## Arabic Typography
 
-Preferred Arabic fonts:
+Mandatory Arabic fonts:
 1. Lusail
 2. Sakkal Majalla
-3. IBM Plex Sans Arabic (fallback)
 
 Preferred English fonts:
 - Scala Sans
@@ -260,12 +259,11 @@ Preferred English fonts:
 
 ## Presentation Style
 
-Slides must look suitable for:
-- ministries
-- executive leadership
-- official government briefings
-- Qatar governmental institutions
-
+Reference aesthetic:
+- Qatar ministries
+- Government executive briefings
+- McKinsey-style strategy presentations
+- Qatar National Vision communication materials
 Design style:
 - Executive
 - Ministerial
